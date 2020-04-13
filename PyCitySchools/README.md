@@ -2,10 +2,6 @@
 
 ## Insights/analysis
 
-(written description of at least two observable trends based on the data.)
-
-(RERUN THE KERNEL FROM START IN AM BEFORE SUBMITTING)
-
 1. Budget per student as it relates to test scores:
 	* Interesting that as the amount spent per student goes up, average test scores seem to go down. It's hard to tell if this is actually statistically significant, though. This would benefit from further analysis using matplotlib or the scipy stats package. However, it can be hypothesized that District schools have a greater overhead/administrative cost per student, and with large student populations, it is still difficult to provide a more personalized education experience to students, which brings me to my next insight...
 
