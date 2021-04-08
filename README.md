@@ -1,2 +1,3 @@
-# pandas-challenge
-04-Pandas Homework
+# pandas
+
+Education/school district analysis
